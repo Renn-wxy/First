@@ -1,4 +1,6 @@
 #include <stdio.h>
 int main() {
-    return 100;
+    int a = 0;
+    printf("hello world");
+    return 0;
 }
